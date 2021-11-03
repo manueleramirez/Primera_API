@@ -1,7 +1,6 @@
 # Primera_API
 api de prueba para aprender los conceptos basicos
 
-################################################
   ___  ______ _____ 
  / _ \ | ___ \_   _|
 / /_\ \| |_/ / | |  
@@ -9,5 +8,4 @@ api de prueba para aprender los conceptos basicos
 | | | || |    _| |_ 
 \_| |_/\_|    \___/ 
                     
-                    
-################################################
+                
